@@ -1,0 +1,8 @@
+// server side commands
+npm init
+npm install --save packageName <- installs some npm package 
+npm start 
+
+// client side commands
+npx create-react-app nameOfApp
+npm start 
